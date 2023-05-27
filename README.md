@@ -1,5 +1,5 @@
 - Hi, I’m @koka7.
-- I want to be an engineer.
+- I want to be an application engineer.
 
 <!---
 koka7/koka7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
